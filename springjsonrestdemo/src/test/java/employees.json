@@ -1,0 +1,29 @@
+{
+  "employees": [
+    {
+      "id": 1,
+      "firstName": "Parth",
+      "lastName": "Savaliya",
+      "active": false
+    },
+    {
+      "id": 2,
+      "firstName": "Jijil",
+      "lastName": "Dudhatra",
+      "active": false
+    },
+    {
+      "id": 3,
+      "firstName": "Gopen",
+      "lastName": "Kanjiya",
+      "active": false
+    },
+    {
+      "id": 4,
+      "firstName": "Vaibhav",
+      "lastName": "Shingala",
+      "active": false
+    }
+    
+  ]
+}
